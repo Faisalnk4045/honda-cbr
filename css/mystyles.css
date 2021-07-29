@@ -57,3 +57,13 @@
     border-radius: 10px;
     padding: 100px;
 }
+
+.contact{
+    padding: 70px 100px;
+}
+.address p{
+    padding-left: 45px;
+}
+.address i{
+    margin-right: 10px;
+}
