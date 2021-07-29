@@ -8,3 +8,7 @@
 .img-gray{
     filter: grayscale(100%);
 }
+.clients img{
+    width: 150px;
+    height: 150px;
+}
