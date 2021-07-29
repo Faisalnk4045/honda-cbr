@@ -12,3 +12,13 @@
     width: 150px;
     height: 150px;
 }
+.faq-img{
+    width: 431px;
+    height: 423px;
+}
+@media (max-width:575px){
+    .faq-img{
+    width: 275px;
+    height: 270px;
+    }
+}
