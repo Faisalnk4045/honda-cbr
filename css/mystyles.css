@@ -52,17 +52,19 @@
     }
 }
 
+/* subscribe section styles */
 .subscribe-bg{
     background-color: #fceae8;
     border-radius: 10px;
     padding: 100px;
 }
 
+/* contact section styles */
 .contact{
-    padding: 70px 100px;
+    padding: 0px 100px 70px 100px;
 }
 .address p{
-    padding-left: 45px;
+    padding-left: 35px;
 }
 .address i{
     margin-right: 10px;
