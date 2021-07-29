@@ -1,17 +1,46 @@
-.my-header-bg{
+/* common styles */
+.light-brown{
+    color: #E76F51;
+}
+
+/* header section styles */
+.my-header{
     background-color: #264653;
 }
-.row img{
+.my-header #header-info1{
+    font-size: 14px;
+    margin-bottom: 0;
+}
+.my-header #header-info2{
+    margin-bottom: 21px;
+    color: #E0E0E0;
+}
+.my-button{
+    padding: 10px 56px;
+    border-radius: 5px;
+    color: white;
+    background-color: #E76F51;
+}
+
+/* featured bikes section styles */
+.bike-img{
     width: 288px;
     height: 243px;
 }
-.img-gray{
+.bike-gray{
     filter: grayscale(100%);
+}
+
+/* review section styles */
+.clients-name{
+    color: #23A6F0;
 }
 .clients img{
     width: 150px;
     height: 150px;
 }
+
+/* faq section styles */
 .faq-img{
     width: 431px;
     height: 423px;
