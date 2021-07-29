@@ -1,3 +1,10 @@
 .my-header-bg{
     background-color: #264653;
 }
+.row img{
+    width: 288px;
+    height: 243px;
+}
+.img-gray{
+    filter: grayscale(100%);
+}
