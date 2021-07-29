@@ -51,3 +51,9 @@
     height: 270px;
     }
 }
+
+.subscribe-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+    padding: 100px;
+}
